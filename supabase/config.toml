@@ -1,0 +1,13 @@
+project_id = "vbvmlknbqlnmepanptvm"
+
+[functions.database-sync]
+verify_jwt = false
+
+[functions.medical-consultation]
+verify_jwt = false
+
+[functions.setup-external-db]
+verify_jwt = false
+
+[functions.initial-sync]
+verify_jwt = false
